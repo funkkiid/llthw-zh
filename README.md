@@ -1,5 +1,8 @@
 # 笨办法学 Linux 中文版
 
+> 本开源书 forked from [笨办法学 Linux 中文版](https://github.com/wizardforcel/llthw-zh)，作者为 [wizardforcel](https://github.com/wizardforcel)，欢迎大家 star 原作者的 [repo](https://github.com/wizardforcel/llthw-zh)，以便获得最新更新，谢谢！
+
+
 原书：[Learn Linux The Hard Way (β version)](https://archive.fo/xDb8o)
 
 译者：[飞龙](https://github.com/wizardforcel)
